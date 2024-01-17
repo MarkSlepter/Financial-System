@@ -1,2 +1,2 @@
 # Financial-system
-course project
+course course_project
